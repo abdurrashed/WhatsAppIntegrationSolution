@@ -1,12 +1,224 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\USER\\source\\repos\\WhatsAppIntegrationSolution\\",
-  "Documents": [],
+  "WorkspaceRootPath": "D:\\newproject\\WhatsAppIntegrationSolution\\WhatsAppIntegrationSolution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EAE90FAC-4AFC-4659-91A3-BBA642248B46}|WhatsAppIntegration.API\\WhatsAppIntegration.API.csproj|d:\\newproject\\whatsappintegrationsolution\\whatsappintegrationsolution\\whatsappintegration.api\\controllers\\twiliowhatsappcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAE90FAC-4AFC-4659-91A3-BBA642248B46}|WhatsAppIntegration.API\\WhatsAppIntegration.API.csproj|solutionrelative:whatsappintegration.api\\controllers\\twiliowhatsappcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAE90FAC-4AFC-4659-91A3-BBA642248B46}|WhatsAppIntegration.API\\WhatsAppIntegration.API.csproj|d:\\newproject\\whatsappintegrationsolution\\whatsappintegrationsolution\\whatsappintegration.api\\controllers\\metawhatsappcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAE90FAC-4AFC-4659-91A3-BBA642248B46}|WhatsAppIntegration.API\\WhatsAppIntegration.API.csproj|solutionrelative:whatsappintegration.api\\controllers\\metawhatsappcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAE90FAC-4AFC-4659-91A3-BBA642248B46}|WhatsAppIntegration.API\\WhatsAppIntegration.API.csproj|d:\\newproject\\whatsappintegrationsolution\\whatsappintegrationsolution\\whatsappintegration.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EAE90FAC-4AFC-4659-91A3-BBA642248B46}|WhatsAppIntegration.API\\WhatsAppIntegration.API.csproj|solutionrelative:whatsappintegration.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17432EA8-2357-4573-8CFE-54CCEE03671B}|WhatsAppIntegration.Web\\WhatsAppIntegration.Web.csproj|d:\\newproject\\whatsappintegrationsolution\\whatsappintegrationsolution\\whatsappintegration.web\\pages\\metawhatsapp.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17432EA8-2357-4573-8CFE-54CCEE03671B}|WhatsAppIntegration.Web\\WhatsAppIntegration.Web.csproj|solutionrelative:whatsappintegration.web\\pages\\metawhatsapp.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17432EA8-2357-4573-8CFE-54CCEE03671B}|WhatsAppIntegration.Web\\WhatsAppIntegration.Web.csproj|d:\\newproject\\whatsappintegrationsolution\\whatsappintegrationsolution\\whatsappintegration.web\\pages\\metawhatsapp.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{17432EA8-2357-4573-8CFE-54CCEE03671B}|WhatsAppIntegration.Web\\WhatsAppIntegration.Web.csproj|solutionrelative:whatsappintegration.web\\pages\\metawhatsapp.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17432EA8-2357-4573-8CFE-54CCEE03671B}|WhatsAppIntegration.Web\\WhatsAppIntegration.Web.csproj|d:\\newproject\\whatsappintegrationsolution\\whatsappintegrationsolution\\whatsappintegration.web\\pages\\twiliowhatsapp.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{17432EA8-2357-4573-8CFE-54CCEE03671B}|WhatsAppIntegration.Web\\WhatsAppIntegration.Web.csproj|solutionrelative:whatsappintegration.web\\pages\\twiliowhatsapp.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17432EA8-2357-4573-8CFE-54CCEE03671B}|WhatsAppIntegration.Web\\WhatsAppIntegration.Web.csproj|d:\\newproject\\whatsappintegrationsolution\\whatsappintegrationsolution\\whatsappintegration.web\\pages\\twiliowhatsapp.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17432EA8-2357-4573-8CFE-54CCEE03671B}|WhatsAppIntegration.Web\\WhatsAppIntegration.Web.csproj|solutionrelative:whatsappintegration.web\\pages\\twiliowhatsapp.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17432EA8-2357-4573-8CFE-54CCEE03671B}|WhatsAppIntegration.Web\\WhatsAppIntegration.Web.csproj|d:\\newproject\\whatsappintegrationsolution\\whatsappintegrationsolution\\whatsappintegration.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{17432EA8-2357-4573-8CFE-54CCEE03671B}|WhatsAppIntegration.Web\\WhatsAppIntegration.Web.csproj|solutionrelative:whatsappintegration.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAE90FAC-4AFC-4659-91A3-BBA642248B46}|WhatsAppIntegration.API\\WhatsAppIntegration.API.csproj|d:\\newproject\\whatsappintegrationsolution\\whatsappintegrationsolution\\whatsappintegration.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAE90FAC-4AFC-4659-91A3-BBA642248B46}|WhatsAppIntegration.API\\WhatsAppIntegration.API.csproj|solutionrelative:whatsappintegration.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAE90FAC-4AFC-4659-91A3-BBA642248B46}|WhatsAppIntegration.API\\WhatsAppIntegration.API.csproj|d:\\newproject\\whatsappintegrationsolution\\whatsappintegrationsolution\\whatsappintegration.api\\model\\dtowhatsappmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAE90FAC-4AFC-4659-91A3-BBA642248B46}|WhatsAppIntegration.API\\WhatsAppIntegration.API.csproj|solutionrelative:whatsappintegration.api\\model\\dtowhatsappmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAE90FAC-4AFC-4659-91A3-BBA642248B46}|WhatsAppIntegration.API\\WhatsAppIntegration.API.csproj|d:\\newproject\\whatsappintegrationsolution\\whatsappintegrationsolution\\whatsappintegration.api\\whatsappintegration.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{EAE90FAC-4AFC-4659-91A3-BBA642248B46}|WhatsAppIntegration.API\\WhatsAppIntegration.API.csproj|solutionrelative:whatsappintegration.api\\whatsappintegration.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17432EA8-2357-4573-8CFE-54CCEE03671B}|WhatsAppIntegration.Web\\WhatsAppIntegration.Web.csproj|d:\\newproject\\whatsappintegrationsolution\\whatsappintegrationsolution\\whatsappintegration.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17432EA8-2357-4573-8CFE-54CCEE03671B}|WhatsAppIntegration.Web\\WhatsAppIntegration.Web.csproj|solutionrelative:whatsappintegration.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MetaWhatsApp.cshtml.cs",
+              "DocumentMoniker": "D:\\newproject\\WhatsAppIntegrationSolution\\WhatsAppIntegrationSolution\\WhatsAppIntegration.Web\\Pages\\MetaWhatsApp.cshtml.cs",
+              "RelativeDocumentMoniker": "WhatsAppIntegration.Web\\Pages\\MetaWhatsApp.cshtml.cs",
+              "ToolTip": "D:\\newproject\\WhatsAppIntegrationSolution\\WhatsAppIntegrationSolution\\WhatsAppIntegration.Web\\Pages\\MetaWhatsApp.cshtml.cs",
+              "RelativeToolTip": "WhatsAppIntegration.Web\\Pages\\MetaWhatsApp.cshtml.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAA3wCUAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-18T14:44:08.91Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TwilioWhatsApp.cshtml",
+              "DocumentMoniker": "D:\\newproject\\WhatsAppIntegrationSolution\\WhatsAppIntegrationSolution\\WhatsAppIntegration.Web\\Pages\\TwilioWhatsApp.cshtml",
+              "RelativeDocumentMoniker": "WhatsAppIntegration.Web\\Pages\\TwilioWhatsApp.cshtml",
+              "ToolTip": "D:\\newproject\\WhatsAppIntegrationSolution\\WhatsAppIntegrationSolution\\WhatsAppIntegration.Web\\Pages\\TwilioWhatsApp.cshtml*",
+              "RelativeToolTip": "WhatsAppIntegration.Web\\Pages\\TwilioWhatsApp.cshtml*",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-18T14:42:24.939Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MetaWhatsApp.cshtml",
+              "DocumentMoniker": "D:\\newproject\\WhatsAppIntegrationSolution\\WhatsAppIntegrationSolution\\WhatsAppIntegration.Web\\Pages\\MetaWhatsApp.cshtml",
+              "RelativeDocumentMoniker": "WhatsAppIntegration.Web\\Pages\\MetaWhatsApp.cshtml",
+              "ToolTip": "D:\\newproject\\WhatsAppIntegrationSolution\\WhatsAppIntegrationSolution\\WhatsAppIntegration.Web\\Pages\\MetaWhatsApp.cshtml",
+              "RelativeToolTip": "WhatsAppIntegration.Web\\Pages\\MetaWhatsApp.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-18T14:41:02.432Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MetaWhatsAppController.cs",
+              "DocumentMoniker": "D:\\newproject\\WhatsAppIntegrationSolution\\WhatsAppIntegrationSolution\\WhatsAppIntegration.API\\Controllers\\MetaWhatsAppController.cs",
+              "RelativeDocumentMoniker": "WhatsAppIntegration.API\\Controllers\\MetaWhatsAppController.cs",
+              "ToolTip": "D:\\newproject\\WhatsAppIntegrationSolution\\WhatsAppIntegrationSolution\\WhatsAppIntegration.API\\Controllers\\MetaWhatsAppController.cs",
+              "RelativeToolTip": "WhatsAppIntegration.API\\Controllers\\MetaWhatsAppController.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAYwCwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-18T14:16:49.495Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TwilioWhatsAppController.cs",
+              "DocumentMoniker": "D:\\newproject\\WhatsAppIntegrationSolution\\WhatsAppIntegrationSolution\\WhatsAppIntegration.API\\Controllers\\TwilioWhatsAppController.cs",
+              "RelativeDocumentMoniker": "WhatsAppIntegration.API\\Controllers\\TwilioWhatsAppController.cs",
+              "ToolTip": "D:\\newproject\\WhatsAppIntegrationSolution\\WhatsAppIntegrationSolution\\WhatsAppIntegration.API\\Controllers\\TwilioWhatsAppController.cs",
+              "RelativeToolTip": "WhatsAppIntegration.API\\Controllers\\TwilioWhatsAppController.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAYwB4AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-18T14:19:16.809Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\newproject\\WhatsAppIntegrationSolution\\WhatsAppIntegrationSolution\\WhatsAppIntegration.API\\appsettings.json",
+              "RelativeDocumentMoniker": "WhatsAppIntegration.API\\appsettings.json",
+              "ToolTip": "D:\\newproject\\WhatsAppIntegrationSolution\\WhatsAppIntegrationSolution\\WhatsAppIntegration.API\\appsettings.json",
+              "RelativeToolTip": "WhatsAppIntegration.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-18T14:14:14.336Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TwilioWhatsApp.cshtml.cs",
+              "DocumentMoniker": "D:\\newproject\\WhatsAppIntegrationSolution\\WhatsAppIntegrationSolution\\WhatsAppIntegration.Web\\Pages\\TwilioWhatsApp.cshtml.cs",
+              "RelativeDocumentMoniker": "WhatsAppIntegration.Web\\Pages\\TwilioWhatsApp.cshtml.cs",
+              "ToolTip": "D:\\newproject\\WhatsAppIntegrationSolution\\WhatsAppIntegrationSolution\\WhatsAppIntegration.Web\\Pages\\TwilioWhatsApp.cshtml.cs*",
+              "RelativeToolTip": "WhatsAppIntegration.Web\\Pages\\TwilioWhatsApp.cshtml.cs*",
+              "ViewState": "AgIAABgAAAAAAAAAAAA5wDIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-18T14:47:31.18Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\newproject\\WhatsAppIntegrationSolution\\WhatsAppIntegrationSolution\\WhatsAppIntegration.Web\\appsettings.json",
+              "RelativeDocumentMoniker": "WhatsAppIntegration.Web\\appsettings.json",
+              "ToolTip": "D:\\newproject\\WhatsAppIntegrationSolution\\WhatsAppIntegrationSolution\\WhatsAppIntegration.Web\\appsettings.json",
+              "RelativeToolTip": "WhatsAppIntegration.Web\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-18T14:36:02.105Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DtoWhatsAppMessage.cs",
+              "DocumentMoniker": "D:\\newproject\\WhatsAppIntegrationSolution\\WhatsAppIntegrationSolution\\WhatsAppIntegration.API\\Model\\DtoWhatsAppMessage.cs",
+              "RelativeDocumentMoniker": "WhatsAppIntegration.API\\Model\\DtoWhatsAppMessage.cs",
+              "ToolTip": "D:\\newproject\\WhatsAppIntegrationSolution\\WhatsAppIntegrationSolution\\WhatsAppIntegration.API\\Model\\DtoWhatsAppMessage.cs",
+              "RelativeToolTip": "WhatsAppIntegration.API\\Model\\DtoWhatsAppMessage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-18T10:36:53.132Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\newproject\\WhatsAppIntegrationSolution\\WhatsAppIntegrationSolution\\WhatsAppIntegration.API\\Program.cs",
+              "RelativeDocumentMoniker": "WhatsAppIntegration.API\\Program.cs",
+              "ToolTip": "D:\\newproject\\WhatsAppIntegrationSolution\\WhatsAppIntegrationSolution\\WhatsAppIntegration.API\\Program.cs",
+              "RelativeToolTip": "WhatsAppIntegration.API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-18T10:35:02.103Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "WhatsAppIntegration.API",
+              "DocumentMoniker": "D:\\newproject\\WhatsAppIntegrationSolution\\WhatsAppIntegrationSolution\\WhatsAppIntegration.API\\WhatsAppIntegration.API.csproj",
+              "RelativeDocumentMoniker": "WhatsAppIntegration.API\\WhatsAppIntegration.API.csproj",
+              "ToolTip": "D:\\newproject\\WhatsAppIntegrationSolution\\WhatsAppIntegrationSolution\\WhatsAppIntegration.API\\WhatsAppIntegration.API.csproj",
+              "RelativeToolTip": "WhatsAppIntegration.API\\WhatsAppIntegration.API.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-18T10:36:20.564Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\newproject\\WhatsAppIntegrationSolution\\WhatsAppIntegrationSolution\\WhatsAppIntegration.Web\\Program.cs",
+              "RelativeDocumentMoniker": "WhatsAppIntegration.Web\\Program.cs",
+              "ToolTip": "D:\\newproject\\WhatsAppIntegrationSolution\\WhatsAppIntegrationSolution\\WhatsAppIntegration.Web\\Program.cs",
+              "RelativeToolTip": "WhatsAppIntegration.Web\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-18T10:12:11.699Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

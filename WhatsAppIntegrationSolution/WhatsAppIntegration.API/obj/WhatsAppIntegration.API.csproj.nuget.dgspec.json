@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\USER\\source\\repos\\WhatsAppIntegrationSolution\\WhatsAppIntegration.API\\WhatsAppIntegration.API.csproj": {}
+    "D:\\newproject\\WhatsAppIntegrationSolution\\WhatsAppIntegrationSolution\\WhatsAppIntegration.API\\WhatsAppIntegration.API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\USER\\source\\repos\\WhatsAppIntegrationSolution\\WhatsAppIntegration.API\\WhatsAppIntegration.API.csproj": {
+    "D:\\newproject\\WhatsAppIntegrationSolution\\WhatsAppIntegrationSolution\\WhatsAppIntegration.API\\WhatsAppIntegration.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\USER\\source\\repos\\WhatsAppIntegrationSolution\\WhatsAppIntegration.API\\WhatsAppIntegration.API.csproj",
+        "projectUniqueName": "D:\\newproject\\WhatsAppIntegrationSolution\\WhatsAppIntegrationSolution\\WhatsAppIntegration.API\\WhatsAppIntegration.API.csproj",
         "projectName": "WhatsAppIntegration.API",
-        "projectPath": "C:\\Users\\USER\\source\\repos\\WhatsAppIntegrationSolution\\WhatsAppIntegration.API\\WhatsAppIntegration.API.csproj",
+        "projectPath": "D:\\newproject\\WhatsAppIntegrationSolution\\WhatsAppIntegrationSolution\\WhatsAppIntegration.API\\WhatsAppIntegration.API.csproj",
         "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\USER\\source\\repos\\WhatsAppIntegrationSolution\\WhatsAppIntegration.API\\obj\\",
+        "outputPath": "D:\\newproject\\WhatsAppIntegrationSolution\\WhatsAppIntegrationSolution\\WhatsAppIntegration.API\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -53,6 +53,10 @@
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[6.6.2, )"
+            },
+            "Twilio": {
+              "target": "Package",
+              "version": "[7.13.4, )"
             }
           },
           "imports": [

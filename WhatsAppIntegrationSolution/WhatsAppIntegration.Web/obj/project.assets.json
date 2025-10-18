@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\USER\\source\\repos\\WhatsAppIntegrationSolution\\WhatsAppIntegration.Web\\WhatsAppIntegration.Web.csproj",
+      "projectUniqueName": "D:\\newproject\\WhatsAppIntegrationSolution\\WhatsAppIntegrationSolution\\WhatsAppIntegration.Web\\WhatsAppIntegration.Web.csproj",
       "projectName": "WhatsAppIntegration.Web",
-      "projectPath": "C:\\Users\\USER\\source\\repos\\WhatsAppIntegrationSolution\\WhatsAppIntegration.Web\\WhatsAppIntegration.Web.csproj",
+      "projectPath": "D:\\newproject\\WhatsAppIntegrationSolution\\WhatsAppIntegrationSolution\\WhatsAppIntegration.Web\\WhatsAppIntegration.Web.csproj",
       "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\USER\\source\\repos\\WhatsAppIntegrationSolution\\WhatsAppIntegration.Web\\obj\\",
+      "outputPath": "D:\\newproject\\WhatsAppIntegrationSolution\\WhatsAppIntegrationSolution\\WhatsAppIntegration.Web\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
