@@ -1,0 +1,38 @@
+﻿@page "/twillo-whatsapp"
+@model WhatsAppIntegration.Web.Pages.TwilioWhatsAppModel
+@{
+    ViewData["Title"] = "Twilio WhatsApp Message Sender";
+}
+
+<div class="container mt-5">
+    <div class="card shadow-lg border-0 rounded-3">
+        <div class="card-header bg-primary text-white text-center">
+            <h4>Send WhatsApp Message (Twilio API)</h4>
+        </div>
+
+        <div class="card-body">
+            <form method="post">
+                <div class="mb-3">
+                    <label asp-for="To" class="form-label">Phone Number (with country code)</label>
+                    <input asp-for="To" class="form-control" placeholder="e.g. 8801882332451" />
+                </div>
+
+                <div class="mb-3">
+                    <label asp-for="Body" class="form-label">Message</label>
+                    <textarea asp-for="Body" class="form-control" rows="4" placeholder="Write your message here..."></textarea>
+                </div>
+
+                <button type="submit" class="btn btn-primary w-100">
+                    <i class="bi bi-whatsapp"></i> Send Message
+                </button>
+            </form>
+
+            @if (!string.IsNullOrEmpty(Model.ResponseMessage))
+            {
+                <div class="alert alert-info mt-4" role="alert">
+                    <strong>Response:</strong> @Model.ResponseMessage
+                </div>
+            }
+        </div>
+    </div>
+</div>
